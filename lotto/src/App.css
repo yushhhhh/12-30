@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.btn_lotto{
+  position: absolute;
+  left: 50%;
+  bottom: 100px;
+  margin-left: -100px;
+  width:200px;
+  height:50px;
+  font-size:20px;
+}
